@@ -1,0 +1,79 @@
+{
+  "topics": [
+    {
+      "topic": "Programming",
+      "id": 1
+    },
+    {
+      "topic": "Machine Learning",
+      "id": 2
+    },
+    {
+      "topic": "Architecture",
+      "id": 3
+    },
+    {
+      "topic": "Dev",
+      "id": 4
+    }
+  ],
+  "blogs": [
+    {
+      "title": "Programming",
+      "author": "fexri",
+      "description": "sfafsa",
+      "created_date": "Oct 28, 2021",
+      "view": "578",
+      "topic_id": 1,
+      "id": 1
+    },
+    {
+      "topic_id": 2,
+      "title": "Devops",
+      "author": "Sam",
+      "id": 2,
+      "description": "DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.",
+      "created_date": "Oct 28, 2021",
+      "view": 0,
+      "image": ""
+    },
+    {
+      "topic_id": 3,
+      "title": "Machine Learning",
+      "author": "Niwks",
+      "id": 3,
+      "description": "Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy",
+      "created_date": "Sep 22, 2021",
+      "view": 0,
+      "image": ""
+    },
+    {
+      "topic_id": 1,
+      "title": "sdf",
+      "view": 20,
+      "author": "sfsd",
+      "description": "sdgsdg",
+      "created_date": "sdgsd",
+      "id": 4
+    },
+    {
+      "topic_id": 4,
+      "title": "Dev",
+      "author": "Niwks",
+      "id": 5,
+      "description": "Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy",
+      "created_date": "Sep 22, 2021",
+      "view": 0,
+      "image": ""
+    },
+    {
+      "topic_id": 1,
+      "title": "sfsd",
+      "view": "1234",
+      "author": "sdfds",
+      "description": "sdfsdf",
+      "created_date": "sdfsd",
+      "id": 6
+    }
+  ]
+}
